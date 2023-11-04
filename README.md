@@ -14,12 +14,12 @@ It consists of 28 anonymized feauters (V1,V2,V3, up to V28), accompanied by amou
 
 ## Methods used
 * Data Visualization
-* Supervised Machine Learning Alogorithms: Logistic Regression, Random Forest, K-nearest Neighbors, Decision Trees ,Naive Bayes.
+* Supervised Machine Learning Alogorithms: Logistic Regression, Random Forest, K-nearest Neighbors, Decision Trees, Naive Bayes.
 
 ## Technology stack
 * Python 3.9.18
 * Pandas 2.0.3
 * Numpy 1.26.0
 * Matplotlib 3.8.0
-* Sklearn 1.3.1
+* Scikit-Learn 1.3.1
 * Seaborn 0.13.0
